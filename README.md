@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Hakam👋
 
-<!--
-**hakamcodes/hakamcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Building things I don't know how to build — yet.**
 
-Here are some ideas to get you started:
+Computer Science student focused on **AI, full-stack development, and problem solving**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring:
+
+* AI-powered applications
+* Backend & system design
+* Data Structures & Algorithms
+
+### `stack`
+
+C++ · Python · TypeScript · React · Next.js · FastAPI · Firebase · Git
+
+### `building`
+
+🧠 AI systems
+⚡ Full-stack products
+🏆 Hackathon projects
+
+Some of my experiments are here.
+Some are still being built.
+
+**[LinkedIn](https://linkedin.com/in/hakamsingh31)**
