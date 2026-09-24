@@ -82,7 +82,11 @@ Liquidity intelligence platform for analyzing Stellar-based DeFi pools, position
 🌐 [Live Demo](https://hakam-poolpulse.vercel.app)
 
 
-Some of my experiments are here.
-Some are still being built.
+## 🤝 Let's Connect
 
-**[LinkedIn](https://linkedin.com/in/hakamsingh31)**
+I'm always interested in learning, building, and collaborating on meaningful projects.
+
+[**LinkedIn**](https://linkedin.com/in/hakamsingh31) • [**GitHub**](https://github.com/hakamcodes)
+
+> Building, learning, and shipping — one project at a time.
+
