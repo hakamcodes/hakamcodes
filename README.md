@@ -2,13 +2,14 @@
 
 > **Building things I don't know how to build — yet.**
 
-Computer Science student focused on **AI, full-stack development, and problem solving**.
+Computer Science student, building **AI-powered and full-stack applications** with a focus on practical products, hackathons, and continuous learning.
 
-Currently exploring:
+## 🚀 What I'm Building
 
-* AI-powered applications
-* Backend & system design
-* Data Structures & Algorithms
+- 🤖 AI-powered applications and intelligent workflows
+- 🌐 Full-stack products from frontend to backend
+- 🧩 Practical solutions for real-world problems and hackathons
+- 🧠 Strengthening Data Structures & Algorithms with C++ and Python
 
 ## 🛠️ Tech Stack
 
@@ -41,6 +42,15 @@ Currently exploring:
 
 ## ⭐ Featured Projects
 
+### ⚖️ Legal Metrology Compliance Scanner
+AI-powered system for checking packaged commodities against Legal Metrology requirements using OCR, vision AI, and a deterministic compliance engine.
+
+**Tech:** Next.js • FastAPI • Python • TypeScript • Claude • Firestore
+
+🔗 [View Project](https://github.com/hakamcodes/SIH_PS26034)
+
+---
+
 
 ### 📈 Daily Wins
 Personal productivity platform for tracking goals, habits, skills, finances, and daily progress.
@@ -48,16 +58,7 @@ Personal productivity platform for tracking goals, habits, skills, finances, and
 **Tech:** React • TypeScript • Firebase • Firestore
 
 🔗 [View Project](https://github.com/hakamcodes/dailywinns)
-🌐 [Live Demo](https://https://dailywinns.vercel.app)
-
----
-
-### ⚖️ Legal Metrology Compliance Scanner
-AI-powered system for checking packaged commodities against Legal Metrology requirements using OCR, vision AI, and a deterministic compliance engine.
-
-**Tech:** Next.js • FastAPI • Python • TypeScript • Claude • Firestore
-
-🔗 [View Project](https://github.com/hakamcodes/SIH_PS26034)
+🌐 [Live Demo](https://dailywinns.vercel.app)
 
 
 ---
