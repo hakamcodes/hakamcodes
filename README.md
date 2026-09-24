@@ -38,14 +38,50 @@ Currently exploring:
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![AI APIs](https://img.shields.io/badge/AI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### `building`
 
-🧠 AI systems
-⚡ Full-stack products
-🏆 Hackathon projects
+## ⭐ Featured Projects
+
+
+### 📈 Daily Wins
+Personal productivity platform for tracking goals, habits, skills, finances, and daily progress.
+
+**Tech:** React • TypeScript • Firebase • Firestore
+
+🔗 [View Project](https://github.com/hakamcodes/dailywinns)
+🌐 [Live Demo](https://https://dailywinns.vercel.app)
+
+---
+
+### ⚖️ Legal Metrology Compliance Scanner
+AI-powered system for checking packaged commodities against Legal Metrology requirements using OCR, vision AI, and a deterministic compliance engine.
+
+**Tech:** Next.js • FastAPI • Python • TypeScript • Claude • Firestore
+
+🔗 [View Project](https://github.com/hakamcodes/SIH_PS26034)
+
+
+---
+
+### 🏆 CrowdSense AI
+AI-powered civic intelligence platform designed to help citizens report issues and help administrators analyze, categorize, and manage complaints.
+
+**Tech:** React • TypeScript • Firebase • Firestore • AI APIs
+
+🌐 [Live Demo](https://crowdsenseai.vercel.app)
+
+
+---
+
+### 🌊 PoolPulse
+Liquidity intelligence platform for analyzing Stellar-based DeFi pools, positions, risks, and impermanent loss.
+
+**Tech:** Next.js • TypeScript • Tailwind CSS • Stellar • Soroban • Rust
+
+🔗 [View Project](https://github.com/hakamcodes/hakam-PoolPulse)  
+🌐 [Live Demo](https://hakam-poolpulse.vercel.app)
+
 
 Some of my experiments are here.
 Some are still being built.
 
 **[LinkedIn](https://linkedin.com/in/hakamsingh31)**
-
