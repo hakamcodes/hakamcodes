@@ -24,3 +24,7 @@ Some of my experiments are here.
 Some are still being built.
 
 **[LinkedIn](https://linkedin.com/in/hakamsingh31)**
+
+## 📊 GitHub Stats
+
+![Hakam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakamcodes&show_icons=true&theme=transparent)
